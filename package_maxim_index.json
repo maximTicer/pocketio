@@ -1,12 +1,12 @@
 {
 	"packages": [
 		{
-		"name": "Maxim",
-		"email": "alex.ticer@maximintegrated.com",
-		"websiteURL": "http://maximintegrated.com",
-		"maintainer": "Maxim Integrated",
-		"platforms": [
-			{
+			"name": "Maxim",
+			"email": "alex.ticer@maximintegrated.com",
+			"websiteURL": "http://maximintegrated.com",
+			"maintainer": "Maxim Integrated",
+			"platforms": [
+				{
 				"name": "Maxim Boards",
 				"version": "0.1.0",
 				"category": "Maxim",
@@ -16,9 +16,7 @@
 				"checksum": "SHA-256:e6baa5b9f239c935df1992c25f4ac4f04d71d4d4aa01edb6ecfdfb20c5ff2ae1",
 				"size": "109170",
 				"boards": [
-					{
-						"name": "Pocket IO"
-					}
+					{ "name": "Pocket IO" }
 				],
 				"toolDependencies": [
 					{
@@ -32,78 +30,78 @@
 	                	"version": "1.6.2+1.0"
 	              	}
 				]
-			}
-		],
-		"tools": [
-	        {
-	          "name": "core2-32-poky-linux",
-	          "version": "1.6.2+1.0",
-	          "systems": [
-	            {
-	              "size": "42720934",
-	              "checksum": "SHA-256:fac0b3f00a33ee0531ea0da6d517c170409e25bd5e59f6f3db9506974336375d",
-	              "host": "i386-apple-darwin11",
-	              "archiveFileName": "edison-toolchain-20150323-osx.tar.bz2",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-osx-1.6.2-1.0.tar.bz2"
-	            },
-	            {
-	              "size": "56683094",
-	              "checksum": "SHA-256:5a9a1b51f0fa18bf21e1dcf1332d34331dd435c5ca0d1fe008e68e13cb3255e5",
-	              "host": "i686-mingw32",
-	              "archiveFileName": "edison-toolchain-20150323-windows.zip",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-windows-1.6.2-1.0.zip"
-	            },
-	            {
-	              "size": "78998436",
-	              "checksum": "SHA-256:e3443e7832732f2189fd424e4868d2ebb563e823addb2321a6e8a86a9fced193",
-	              "host": "x86_64-linux-gnu",
-	              "archiveFileName": "edison-toolchain-20150316-linux64.tar.bz2",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-linux64-1.6.2-1.0.tar.bz2"
-	            },
-	            {
-	              "size": "76488215",
-	              "checksum": "SHA-256:014d1bdc40bb080987c736d04ffd42cdc0d2c3cad001891fb01555dac04296f7",
-	              "host": "i686-linux-gnu",
-	              "archiveFileName": "edison-toolchain-20150316-linux32.tar.bz2",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-linux32-1.6.2-1.0.tar.bz2"
-	            }
-	          ]
-	        },
-	        {
-	          "name": "sketchUploader",
-	          "version": "1.6.2+1.0",
-	          "systems": [
-	            {
-	              "size": "61789",
-	              "checksum": "SHA-256:8395ccb57c627f997fe01170df4613de906f48c6ce99623b9ca42806079c28ad",
-	              "host": "i386-apple-darwin11",
-	              "archiveFileName": "intel-arduino-tools-20150316-osx.tar.gz",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-osx.tar.gz"
-	            },
-	            {
-	              "size": "2534586",
-	              "checksum": "SHA-256:c32d1ae4cde190242eef95122d20dbcb5da226e7de6c567079a1c8c292267ae5",
-	              "host": "i686-mingw32",
-	              "archiveFileName": "intel-arduino-tools-20150316-windows.zip",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-windows.zip"
-	            },
-	            {
-	              "size": "178239",
-	              "checksum": "SHA-256:2876db4153db22609d2f6c9c3bfb198efbb9d9574edad579aca7d58cff9d2cca",
-	              "host": "x86_64-linux-gnu",
-	              "archiveFileName": "intel-arduino-tools-20150316-linux64.tar.gz",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-linux64.tar.gz"
-	            },
-	            {
-	              "size": "187995",
-	              "checksum": "SHA-256:20d87602d0194be626f592d3f2bdc9566a5a897786b042393482ef4c26ae158c",
-	              "host": "i686-linux-gnu",
-	              "archiveFileName": "intel-arduino-tools-20150316-linux32.tar.gz",
-	              "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-linux32.tar.gz"
-	            }
-	          ]
-	        }
-		]
+				}
+			],
+			"tools": [
+	        	{
+	          	  "name": "core2-32-poky-linux",
+	          	  "version": "1.6.2+1.0",
+	          	  "systems": [
+	           	 	{
+					 "size": "42720934",
+	         		 "checksum": "SHA-256:fac0b3f00a33ee0531ea0da6d517c170409e25bd5e59f6f3db9506974336375d",
+	             	 "host": "i386-apple-darwin11",
+	             	 "archiveFileName": "edison-toolchain-20150323-osx.tar.bz2",
+	             	 "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-osx-1.6.2-1.0.tar.bz2"
+	            	},
+	            	{
+	             	 "size": "56683094",
+	             	 "checksum": "SHA-256:5a9a1b51f0fa18bf21e1dcf1332d34331dd435c5ca0d1fe008e68e13cb3255e5",
+	             	 "host": "i686-mingw32",
+	             	 "archiveFileName": "edison-toolchain-20150323-windows.zip",
+	            	 "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-windows-1.6.2-1.0.zip"
+	            	},
+	            	{
+	              	 "size": "78998436",
+	              	 "checksum": "SHA-256:e3443e7832732f2189fd424e4868d2ebb563e823addb2321a6e8a86a9fced193",
+	              	 "host": "x86_64-linux-gnu",
+	            	 "archiveFileName": "edison-toolchain-20150316-linux64.tar.bz2",
+	             	 "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-linux64-1.6.2-1.0.tar.bz2"
+	            	},
+	            	{
+	             	 "size": "76488215",
+	              	 "checksum": "SHA-256:014d1bdc40bb080987c736d04ffd42cdc0d2c3cad001891fb01555dac04296f7",
+	              	 "host": "i686-linux-gnu",
+	              	 "archiveFileName": "edison-toolchain-20150316-linux32.tar.bz2",
+	              	 "url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/edison-toolchain-linux32-1.6.2-1.0.tar.bz2"
+	            	}
+	          	  ]
+	        	},
+	        	{
+	          	  "name": "sketchUploader",
+	          	  "version": "1.6.2+1.0",
+	         	  "systems": [
+	            	 {
+	              	   "size": "61789",
+	             	  	"checksum": "SHA-256:8395ccb57c627f997fe01170df4613de906f48c6ce99623b9ca42806079c28ad",
+	              	  	"host": "i386-apple-darwin11",
+	              	  	"archiveFileName": "intel-arduino-tools-20150316-osx.tar.gz",
+	              	  	"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-osx.tar.gz"
+	            	},
+	            	{
+	              	  	"size": "2534586",
+	              	  	"checksum": "SHA-256:c32d1ae4cde190242eef95122d20dbcb5da226e7de6c567079a1c8c292267ae5",
+	              	  	"host": "i686-mingw32",
+	              	  	"archiveFileName": "intel-arduino-tools-20150316-windows.zip",
+	              	  	"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-windows.zip"
+	            	},
+	           	 	{
+	             	   	"size": "178239",
+	              	  	"checksum": "SHA-256:2876db4153db22609d2f6c9c3bfb198efbb9d9574edad579aca7d58cff9d2cca",
+	             	   	"host": "x86_64-linux-gnu",
+	              	  	"archiveFileName": "intel-arduino-tools-20150316-linux64.tar.gz",
+	              	  	"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-linux64.tar.gz"
+	            	},
+	            	{
+	             	    "size": "187995",
+	              	  	"checksum": "SHA-256:20d87602d0194be626f592d3f2bdc9566a5a897786b042393482ef4c26ae158c",
+	              	  	"host": "i686-linux-gnu",
+	              	  	"archiveFileName": "intel-arduino-tools-20150316-linux32.tar.gz",
+	              	  	"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/tools/1.6.2+1.0-linux32.tar.gz"
+	            	}
+	          	  ]
+	        	}
+			]
 		}
 	]
 }

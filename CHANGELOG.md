@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.2] - 2016-09-12
+### Changed
+- Updates for all libs to speed up spi transactions (revP3)
+
 ## [0.4.4] - 2016-09-12
 ### Changed
 - Updated copyright on all libs (revA)

@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.4] - 2016-09-12
+### Changed
+- Updated copyright on all libs (revP3)
+
 ## [0.3.3] - 2016-09-12
 ### Added
 - Added support for WiFi in access point mode (revP3)

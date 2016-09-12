@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.3] - 2016-09-12
+### Added
+- Added support for WiFi in access point mode (revP3)
+- Added examples for TCP servers in managed and ap modes (revP3)
+
+### Removed
+- Removed WiFi examples that may not have been compatible with Pocket IO™ (revP3)
+
 ## [0.3.2] - 2016-09-12
 ### Changed
 - Updates for all libs to speed up spi transactions (revP3)

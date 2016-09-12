@@ -208,6 +208,31 @@
 				},
 				{
 				"name": "Maxim Boards",
+				"version": "0.3.3",
+				"category": "Maxim",
+				"architecture": "i686",
+				"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/pocketio-0.3.3.tar.gz",
+				"archiveFileName": "pocketio-0.3.3.tar.gz",
+				"checksum": "SHA-256:3de56a8473317fb618d91968656ade21b2d34b6d5cd5dc3adfd877301b9424b9",
+				"size": "149888",
+				"boards": [
+					{ "name": "Pocket IO" }
+				],
+				"toolDependencies": [
+					{
+	                	"packager": "Intel",
+	                	"name": "core2-32-poky-linux",
+	                	"version": "1.6.2+1.0"
+	              	},
+	              	{
+	                	"packager": "Intel",
+	                	"name": "sketchUploader",
+	                	"version": "1.6.2+1.0"
+	              	}
+				]
+				},
+				{
+				"name": "Maxim Boards",
 				"version": "0.4.0",
 				"category": "Maxim",
 				"architecture": "i686",

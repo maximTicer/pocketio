@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.4.5] - 2016-09-12
+### Fixed
+- Typo for PioCom lib (revA)
+
 ## [0.3.4] - 2016-09-12
 ### Changed
 - Updated copyright on all libs (revP3)

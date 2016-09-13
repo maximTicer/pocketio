@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.5] - 2016-09-13
+### Fixed
+- Compile error for PioAi lib (revP3)
+
+### Updated
+- Arduino Pocket IO™ title update
+
+### Removed
+- Removed duplicate example for PioEdLed, was EdLed (revP3)
+
 ## [0.4.5] - 2016-09-12
 ### Fixed
 - Typo for PioCom lib (revA)

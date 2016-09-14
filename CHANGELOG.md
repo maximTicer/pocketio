@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.4.6] - 2016-09-14
+### Fixed
+- PioAi moved selfCal from init to initCal.  Also updated cal example to wait for 0 at start. (revA)
+
 ## [0.3.5] - 2016-09-13
 ### Fixed
 - Compile error for PioAi lib (revP3)

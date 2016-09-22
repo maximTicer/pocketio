@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.6] - 2016-09-22
+### Fixed
+- PioCom compiler errors fixed. (revP3)
+- PioEnc compiler errors fixed. (revP3)
+- PioGpioExp compiler errors fixed. (revP3)
+- PioMtr compiler errors fixed. (revP3)
+- PioUserLed compiler errors fixed. (revP3)
+
 ## [1.0.0] - 2016-09-21
 ### Added
 - Comments to code.

@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2016-09-21
+### Added
+- Comments to code.
+- Folder for docs.
+
+### Fixed
+- PioEnc examples compiler errors fixed. (revA)
+
 ## [0.4.6] - 2016-09-14
 ### Fixed
 - PioAi moved selfCal from init to initCal.  Also updated cal example to wait for 0 at start. (revA)

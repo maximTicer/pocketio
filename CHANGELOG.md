@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2016-10-17
+### Added
+- rawRead to PioEnc (revA)
+
 ## [0.3.6] - 2016-09-22
 ### Fixed
 - PioCom compiler errors fixed. (revP3)

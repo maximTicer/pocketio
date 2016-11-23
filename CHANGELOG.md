@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2016-11-22
+### Fixed
+- Fixed PioIoLink IODD directory creation (revA)
+
 ## [1.0.2] - 2016-11-3
 ### Added
 - Added PioIoLink library (revA)

@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2016-12-17
+### Added
+- Added ISDU support to PioIoLink library (revA)
+- Added PioIoLinkISDU example (revA)
+- Added PioDo overload method for writeOutput, thus for one channel or all (revA)
+
+### Fixed
+- Fixed PioDo writes to only do write, no longer reads back status (revA)
+
 ## [1.0.3] - 2016-11-22
 ### Fixed
 - Fixed PioIoLink IODD directory creation (revA)

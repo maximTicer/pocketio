@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2017-2-19
+### Fixed
+- Fixed PioAi calibration issues, MVS (revA)
+
 ## [1.0.4] - 2016-12-17
 ### Added
 - Added ISDU support to PioIoLink library (revA)

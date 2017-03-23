@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2017-3-22
+### Added
+- Added advanced PioLink methods for raw reads and IODD file sharing with iOS app
+- Added overload method for beginAPMode(char* pass) to allow for passcode for AP network
+
 ## [1.0.5] - 2017-2-19
 ### Fixed
 - Fixed PioAi calibration issues, MVS (revA)

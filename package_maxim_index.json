@@ -639,7 +639,7 @@
 				"url": "https://raw.githubusercontent.com/maximTicer/pocketio/master/pocketio-1.0.6.tar.gz",
 				"archiveFileName": "pocketio-1.0.6.tar.gz",
 				"checksum": "SHA-256:823a310b0d326f56cfec60353d6cfdebd885028da75ccf4e867445b38c5ae2e6",
-				"size": "659,818",
+				"size": "659818",
 				"boards": [
 					{ "name": "Pocket IO" }
 				],

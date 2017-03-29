@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2017-3-29
+### Added
+- Added PioLink methods for PD In and Out specifically
+
+### Fixed
+- Fixed issues with PioIoLink start, stop, start sequences.
+
 ## [1.0.6] - 2017-3-22
 ### Added
 - Added advanced PioLink methods for raw reads and IODD file sharing with iOS app

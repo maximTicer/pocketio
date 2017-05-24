@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 2017-5-24
+### Added
+- Added PioAi constants for higher data rates, previously possible but required reading datasheet
+
 ## [1.0.7] - 2017-3-29
 ### Added
 - Added PioLink methods for PD In and Out specifically

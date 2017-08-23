@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.9] - 2017-8-23
+### Added
+- Added to PioIoLink, method and example to use as only digital input, startIoLinkAsDigitalInput
+
 ## [1.0.8] - 2017-5-24
 ### Added
 - Added PioAi constants for higher data rates, previously possible but required reading datasheet
